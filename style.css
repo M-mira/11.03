@@ -1,0 +1,41 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+
+}
+
+.logo:hover{
+
+}
+
+.nav {
+}
+.nav__list {
+    display: flex;
+    column-gap: 32px;
+    align-items: center;
+    list-style: none;
+}
+.nav__item a{
+    color: black;
+    font-family: l;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    text-decoration: none;
+}
+.desk{
+    background: url(img/Rectangle.png);
+}
+
+.desk__title{
+}
